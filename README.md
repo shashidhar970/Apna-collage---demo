@@ -1,4 +1,4 @@
-# Apna-collage-demo
+# Apnacollage-demo
 This is my first Git repository.
 <br>
 Author - shashidhar gummula
